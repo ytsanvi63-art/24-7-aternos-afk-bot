@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": jinwoo ka bhai
   "bot-account": {
-    "username": "SoloCloudHosting",
-    "password": "",
+    "username": "jinwoo kab bhai",
+    "password": "satvik8780",
     "type": "offline"
   },
-  "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+  "server": 
+    "ip": "sagar656-Asqa.aternos.me",
+    "port": 42535,
     "version": "1.20.1",
     "try-creative": false
   },
